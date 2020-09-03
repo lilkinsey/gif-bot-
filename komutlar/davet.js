@@ -7,7 +7,7 @@ const embed = new Discord.MessageEmbed()
         
 .setTitle(`${client.user.username}`) 
 
-.addField("Yapımcılarım ", " <@733616760116215868>")
+.addField("Yapımcılarım ", " <@201016292885397504>")
 
 .setDescription(`**Botun Davet Linki ;** [TIKLA](BOTUNUZUN DAVET LINKI) \n**Destek Sunucusu ;** [TIKLA](BOTUNUZUN DAVET LINKI)`) 
 .setThumbnail(client.user.avatarURL)
@@ -27,6 +27,6 @@ exports.conf = {
 
 exports.help = {
   name: 'davet',
-  description: 'Darknes Code',
+  description: 'lrowsxrd',
   usage: 'davet'
 }; 

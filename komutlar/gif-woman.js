@@ -26,7 +26,7 @@ exports.conf = {
 
   guildOnly: false,
 
-  aliases: ['gif-woman','woman-gif','gifwoman','womangif'],
+  aliases: ['gif-woman','woman-gif','gifwoman','womangif','kadın'],
 
   permLevel: 0
 
@@ -36,7 +36,7 @@ exports.help = {
 
   name: 'woman',
 
-  description: 'Darknes Code',
+  description: 'lrowsxrd',
 
   usage: 'woman'
 

@@ -9,8 +9,8 @@ const embed = new Discord.MessageEmbed()
     
 .setColor('BLACK') 
 .addField(`:white_check_mark: Darknes Gif Bot Altyapısı :white_check_mark:`,
-              
-`-**gif-ara** Yazdığınız Kelime Hakkında Gif Aratır!
+ `LROWSXRD GIF BOT V12 ALTYAPI             
+-**gif-ara** Yazdığınız Kelime Hakkında Gif Aratır!
 -**man-gif** Rastgele Erkek Gifi Atar!
 -**woman-gif** Rastgele Kadın Gifi Atar!
 -**couple-gif** Rastgele Sevgili Gifi Atar!

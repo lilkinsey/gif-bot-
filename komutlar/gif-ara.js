@@ -88,7 +88,7 @@ exports.help = {
 
   name: 'gif-ara',
 
-  description: "Darknes Code",
+  description: "lrowsxrd",
 
   usage: 'gif-ara'
 

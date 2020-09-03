@@ -9,8 +9,8 @@ const embed = new Discord.MessageEmbed()
     
 .setColor('BLACK')
 .addField(`:white_check_mark: Kullanıcı Komutları :white_check_mark:`,
-
-`-**avatar** Etiketlediğiniz Kişinin Avatarını Gösterir!
+`LROWSXRD GIF BOT V12 ALTYAPI
+-**avatar** Etiketlediğiniz Kişinin Avatarını Gösterir!
 -**sunucu-bilgi** Sunucunun İstatistiklerini Gösterir!
 -**kullanıcı-bilgi** Etiketlediğiniz Kişinin Profilini Gösterir Veyada Kendi Profilnizi Gösterir!
 -**ping** Botun Pingini Gösterir!
