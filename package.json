@@ -1,10 +1,10 @@
 {
   "name": "hello-express",
   "version": "0.0.1",
-  "description": "lrowsxrd gif bot v12",
-  "main": "plus.js",
+  "description": "V12 GİF BOTU",
+  "main": "bot.js",
   "scripts": {
-    "start": "node plus.js"
+    "start": "node bot.js"
   },
   "dependencies": {
     "express": "^4.17.1",
